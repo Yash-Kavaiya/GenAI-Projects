@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter Generator</title>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); 
+        }
+
+        h1 {
+            color: #202124;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-weight: 500;
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        textarea {
+            width: 100%; 
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box; 
+            resize: vertical; 
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            padding: 10px 20px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.3s; 
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cover Letter Generator</h1>
+        <form action="/generate_cover_letter" method="post">
+            <div class="form-group">
+                <label for="job_description">Job Description:</label>
+                <textarea class="form-control" id="job_description" name="job_description" rows="5" placeholder="Enter the job description here..."></textarea>
+            </div>
+            <div class="form-group">
+                <label for="resume_text">Resume Text:</label>
+                <textarea class="form-control" id="resume_text" name="resume_text" rows="5" placeholder="Enter your resume text here..."></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Generate Cover Letter</button>
+        </form>
+        
+        <!-- Icons -->
+        <div class="text-center mt-4">
+            <a href="https://github.com/Yash-Kavaiya" target="_blank" class="mr-3"><i class="fab fa-github fa-2x"></i></a>
+            <a href="https://www.linkedin.com/in/yashkavaiya/" target="_blank" class="mr-3"><i class="fab fa-linkedin fa-2x"></i></a>
+            <a href="https://discord.gg/QpqBsFfH" target="_blank"><i class="fab fa-discord fa-2x"></i></a>
+        </div>
+    </div>
+    
+</body>
+</html>
