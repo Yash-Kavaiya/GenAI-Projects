@@ -42,7 +42,6 @@ Gold: Gold can act as a hedge against inflation, but its short-term price fluctu
                 
                     "Disclaimer": I\'m an AI chatbot, not a financial advisor. This information is for educational purposes only and should not replace professional advice.",
                                     """
- 
 prompt = user_data + (" Based on Above Details Suggest Investment Plan and Output is return in JSON only and take only reference is ") + output_format 
  
 if st.button("Generate Investment Plan"):
