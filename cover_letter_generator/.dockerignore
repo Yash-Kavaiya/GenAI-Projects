@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+.env/
+
+# Git 
+.git/
+
+# Local development files
+__pycache__/  
+*.log 
+*.pyc
+
+# Operating system-specific files
+.DS_Store  
