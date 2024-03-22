@@ -3,5 +3,5 @@
 | Project Name | Project Description | Tech Stacks | Link |
 |---|---|---|---|
 | Cover letter generator  |  | Python, Vertex AI SDK, HTML, CSS | https://www.example.com/project1 |
-| Project Example 2 | Explain what this project does  | JavaScript, React, Node.js | https://www.example.com/project2 |
+| Investment Planner | Suggest investment planing  | Streamlit, Docker, Vertex AI SDK  | https://www.example.com/project2 |
 | |  |  |  |
