@@ -5,7 +5,7 @@ This is a Streamlit web application designed to assist users in generating an in
 ![Streamlit using Python](image.png)
 
 ## Live working Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OPDg4K8Ft9E" frameborder="0" allowfullscreen></iframe>
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=OPDg4K8Ft9E)
 
 ## Problem Statement
 
