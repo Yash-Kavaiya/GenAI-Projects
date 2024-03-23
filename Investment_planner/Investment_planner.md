@@ -4,12 +4,14 @@ This is a Streamlit web application designed to assist users in generating an in
 
 ![Streamlit using Python](image.png)
 
+
+## Live working Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPDg4K8Ft9E" frameborder="0" allowfullscreen></iframe>
 ## Problem Statement
 
 Investing can be a daunting task for many individuals due to the complexity of financial markets, varying investment options, and the uncertainty involved. Moreover, without a clear understanding of one's financial goals and risk tolerance, it's challenging to devise an effective investment strategy.
 
 ## Solution
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OPDg4K8Ft9E/0.jpg)](https://www.youtube.com/watch?v=OPDg4K8Ft9E)
 
 The Investment Planner aims to simplify the investment process by providing personalized investment recommendations based on user input. Here's how it works:
 
