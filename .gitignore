@@ -1,0 +1,45 @@
+# .gitignore for Python projects
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Dependency directories
+dist/
+build/
+lib/
+bin/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment-specific files
+*.env
+*.env.*
+
+# Miscellaneous
+*.pyc
+*.pyo
+*.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.swo
+*.tmp
+*.tmp.*
+*.bak.*
+*.swp.*
+*.swo.*
+*.log.*
+*.sqlite3.*
