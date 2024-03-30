@@ -8,14 +8,8 @@ import vertexai.preview.generative_models as generative_models
 
 intents = discord.Intents.default()
 intents.message_content = True  # Important to receive message content 
-
 # Initialize the Discord client
 client = discord.Client(intents=intents) 
-# Initialize the Discord client
-import base64
-import vertexai
-from vertexai.generative_models import GenerativeModel, Part, FinishReason
-import vertexai.preview.generative_models as generative_models
 
 def generate(text):
   vertexai.init(project="ondc-project-cloud", location="asia-southeast1")
@@ -23,12 +17,14 @@ def generate(text):
   responses = model.generate_content(
       [text],
       generation_config=generation_config,
-      safety_settings=safety_settings,
-      stream=False,
+      safety_settings=safety_settings,stream=True
   )
-
+  print(model)
   for response in responses:
+    print("res-------------",response)
     print(response.text, end="")
+    import time
+    time.sleep(100)
     return response.text
 
 
@@ -70,4 +66,4 @@ async def on_message(message):
     await message.channel.send(f"{message.author.mention} {bot_reply}")
 
 # Run the bot with your Discord token
-client.run(API)
+client.run("API")
