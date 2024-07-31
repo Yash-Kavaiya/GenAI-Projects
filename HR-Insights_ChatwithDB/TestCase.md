@@ -1,18 +1,3 @@
-Here's a detailed `TestCase.md` file for testing the Streamlit application. This document outlines various test cases to ensure the functionality and user experience of the application are up to the mark.
-
-```markdown
-# Test Case Document for Gemini SQL Query Retriever
-
-## Introduction
-This document outlines the test cases for the Gemini SQL Query Retriever Streamlit application. The purpose of these test cases is to verify that the application correctly converts natural language questions into SQL queries, retrieves data from the `employee_kpi.db` database, and displays the results accurately.
-
-## Environment Setup
-1. Ensure that the `employee_kpi.db` SQLite database is present and populated with dummy data.
-2. Load environment variables from a `.env` file that includes `GOOGLE_API_KEY`.
-3. Install required dependencies:
-   ```sh
-   pip install streamlit google-generativeai sqlite3 pandas faker
-   ```
 
 ## Test Cases
 
@@ -109,7 +94,7 @@ This document outlines the test cases for the Gemini SQL Query Retriever Streaml
 
 ## Summary
 This document provides a comprehensive set of test cases to ensure that the Gemini SQL Query Retriever application functions correctly and provides a good user experience. Each test case should be executed, and the results should be recorded to verify the application's functionality.
-```
+
 
 ## Test Questions
 
