@@ -1,8 +1,6 @@
 
 ## Test Cases
 
-
-
 ## Test Questions
 
 ### 1. How many employees are there in the company?
