@@ -3,6 +3,8 @@
 
 This project is a Proof of Concept (POC) that demonstrates the integration of AI in the HR industry. The application provides a smart interface to query employee data using natural language. By leveraging Google Gemini for natural language processing and an SQLite database for data storage, this app showcases how AI can streamline data retrieval and analysis for HR professionals.
 
+![Home](./Images/Home.png)
+
 ## Features
 
 - Query employee data using natural language.
