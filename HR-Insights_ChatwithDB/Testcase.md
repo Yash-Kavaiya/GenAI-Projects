@@ -1,6 +1,81 @@
 
 ## Test Cases
 
+
+
+## Test Questions
+
+### 1. How many employees are there in the company?
+**Question**: How many employees are there in the company?  
+**Expected SQL Query**: `SELECT COUNT(*) FROM EMPLOYEE;`  
+**Expected Result**: The total count of employees in the `EMPLOYEE` table.
+
+![Home](./Images/1.png)
+
+### 2. What is the average salary of employees in the IT department?
+**Question**: What is the average salary of employees in the IT department?  
+**Expected SQL Query**: `SELECT AVG(salary) FROM EMPLOYEE WHERE department='IT';`  
+**Expected Result**: The average salary of employees in the IT department.
+
+![Home](./Images/2.png)
+
+### 3. List all employees who have a performance score of 10.
+**Question**: List all employees who have a performance score of 10.  
+**Expected SQL Query**: `SELECT * FROM EMPLOYEE WHERE performance_score=10;`  
+**Expected Result**: A table listing all employees with a performance score of 10.
+
+![Home](./Images/3.png)
+
+### 4. How many employees are located in Bangalore?
+**Question**: How many employees are located in Bangalore?  
+**Expected SQL Query**: `SELECT COUNT(*) FROM EMPLOYEE WHERE location='Bangalore';`  
+**Expected Result**: The count of employees located in Bangalore.
+
+![Home](./Images/4.png)
+
+### 5. Show all employees who were promoted in the year 2022.
+**Question**: Show all employees who were promoted in the year 2022.  
+**Expected SQL Query**: `SELECT * FROM EMPLOYEE WHERE last_promotion_year=2022;`  
+**Expected Result**: A table listing all employees promoted in 2022.
+![Home](./Images/5.png)
+
+
+### 6. What is the total salary expenditure for the Finance department?
+**Question**: What is the total salary expenditure for the Finance department?  
+**Expected SQL Query**: `SELECT SUM(salary) FROM EMPLOYEE WHERE department='Finance';`  
+**Expected Result**: The total salary expenditure for employees in the Finance department.
+![Home](./Images/6.png)
+
+
+### 7. List the top 5 highest-paid employees.
+**Question**: List the top 5 highest-paid employees.  
+**Expected SQL Query**: `SELECT * FROM EMPLOYEE ORDER BY salary DESC LIMIT 5;`  
+**Expected Result**: A table listing the top 5 highest-paid employees.
+
+![Home](./Images/7.png)
+
+### 8. How many employees have more than 10 years of experience?
+**Question**: How many employees have more than 20 years of experience?  
+**Expected SQL Query**: `SELECT COUNT(*) FROM EMPLOYEE WHERE years_of_experience > 10;`  
+**Expected Result**: The count of employees with more than 10 years of experience.
+
+![Home](./Images/8.png)
+
+
+### 9. Show the details of employees age 18.
+**Question**: Show the details of employees aged between 30 and 40.  
+**Expected SQL Query**: `SELECT * FROM EMPLOYEE WHERE age BETWEEN 30 AND 40;`  
+**Expected Result**: A table listing all employees aged between 30 and 40.
+![Home](./Images/9.png)
+
+### 10. List the names of employees who work in the HR department and are located in Mumbai.
+**Question**: List the names of employees who work in the HR department and are located in Mumbai.  
+**Expected SQL Query**: `SELECT name FROM EMPLOYEE WHERE department='HR' AND location='Mumbai';`  
+**Expected Result**: A table listing the names of employees who work in the HR department and are located in Mumbai.
+
+![Home](./Images/10.png)
+
+
 ### 1. Application Launch
 **Test ID**: TC001  
 **Description**: Verify that the Streamlit application launches without errors.  
@@ -94,76 +169,3 @@
 
 ## Summary
 This document provides a comprehensive set of test cases to ensure that the Gemini SQL Query Retriever application functions correctly and provides a good user experience. Each test case should be executed, and the results should be recorded to verify the application's functionality.
-
-
-## Test Questions
-
-### 1. How many employees are there in the company?
-**Question**: How many employees are there in the company?  
-**Expected SQL Query**: `SELECT COUNT(*) FROM EMPLOYEE;`  
-**Expected Result**: The total count of employees in the `EMPLOYEE` table.
-
-![Home](./Images/1.png)
-
-### 2. What is the average salary of employees in the IT department?
-**Question**: What is the average salary of employees in the IT department?  
-**Expected SQL Query**: `SELECT AVG(salary) FROM EMPLOYEE WHERE department='IT';`  
-**Expected Result**: The average salary of employees in the IT department.
-
-![Home](./Images/2.png)
-
-### 3. List all employees who have a performance score of 10.
-**Question**: List all employees who have a performance score of 10.  
-**Expected SQL Query**: `SELECT * FROM EMPLOYEE WHERE performance_score=10;`  
-**Expected Result**: A table listing all employees with a performance score of 10.
-
-![Home](./Images/3.png)
-
-### 4. How many employees are located in Bangalore?
-**Question**: How many employees are located in Bangalore?  
-**Expected SQL Query**: `SELECT COUNT(*) FROM EMPLOYEE WHERE location='Bangalore';`  
-**Expected Result**: The count of employees located in Bangalore.
-
-![Home](./Images/4.png)
-
-### 5. Show all employees who were promoted in the year 2022.
-**Question**: Show all employees who were promoted in the year 2022.  
-**Expected SQL Query**: `SELECT * FROM EMPLOYEE WHERE last_promotion_year=2022;`  
-**Expected Result**: A table listing all employees promoted in 2022.
-![Home](./Images/5.png)
-
-
-### 6. What is the total salary expenditure for the Finance department?
-**Question**: What is the total salary expenditure for the Finance department?  
-**Expected SQL Query**: `SELECT SUM(salary) FROM EMPLOYEE WHERE department='Finance';`  
-**Expected Result**: The total salary expenditure for employees in the Finance department.
-![Home](./Images/6.png)
-
-
-### 7. List the top 5 highest-paid employees.
-**Question**: List the top 5 highest-paid employees.  
-**Expected SQL Query**: `SELECT * FROM EMPLOYEE ORDER BY salary DESC LIMIT 5;`  
-**Expected Result**: A table listing the top 5 highest-paid employees.
-
-![Home](./Images/7.png)
-
-### 8. How many employees have more than 10 years of experience?
-**Question**: How many employees have more than 20 years of experience?  
-**Expected SQL Query**: `SELECT COUNT(*) FROM EMPLOYEE WHERE years_of_experience > 10;`  
-**Expected Result**: The count of employees with more than 10 years of experience.
-
-![Home](./Images/8.png)
-
-
-### 9. Show the details of employees age 18.
-**Question**: Show the details of employees aged between 30 and 40.  
-**Expected SQL Query**: `SELECT * FROM EMPLOYEE WHERE age BETWEEN 30 AND 40;`  
-**Expected Result**: A table listing all employees aged between 30 and 40.
-![Home](./Images/9.png)
-
-### 10. List the names of employees who work in the HR department and are located in Mumbai.
-**Question**: List the names of employees who work in the HR department and are located in Mumbai.  
-**Expected SQL Query**: `SELECT name FROM EMPLOYEE WHERE department='HR' AND location='Mumbai';`  
-**Expected Result**: A table listing the names of employees who work in the HR department and are located in Mumbai.
-
-![Home](./Images/10.png)
