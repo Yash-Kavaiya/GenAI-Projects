@@ -1,20 +1,25 @@
-# Use the official Python image from the Docker Hub
-FROM python:3.9-slim
+FROM python:3.10-slim
 
-# Set the working directory in the container
+# This copies everything in your current directory to the /app directory in the container.
+COPY . /app
+
+# This sets the /app directory as the working directory for any RUN, CMD, ENTRYPOINT, or COPY instructions that follow.
 WORKDIR /app
 
-# Copy the requirements.txt file into the container
-COPY requirements.txt .
+# This runs pip install for all the packages listed in your requirements.txt file.
+RUN pip install -r requirements.txt
 
-# Install the dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+# This tells Docker to listen on port 80 at runtime. Port 80 is the standard port for HTTP.
+EXPOSE 8080
 
-# Copy the rest of the application code into the container
-COPY . .
+# This command creates a .streamlit directory in the home directory of the container.
+RUN mkdir ~/.streamlit
 
-# Expose the port that Streamlit will run on
-EXPOSE 8501
+# This copies your Streamlit configuration file into the .streamlit directory you just created.
+RUN cp config.toml ~/.streamlit/config.toml
 
-# Command to run the Streamlit app
-CMD ["streamlit", "run", "main.py"]
+# Similar to the previous step, this copies your Streamlit credentials file into the .streamlit directory.
+RUN cp credentials.toml ~/.streamlit/credentials.toml
+
+# This sets the default command for the container to run the app with Streamlit.
+ENTRYPOINT ["streamlit", "run","main.py"]
