@@ -1,9 +1,12 @@
 
-# AI-Driven HR Insights Dashboard
+# 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗛𝗥 𝗤𝘂𝗲𝗿𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗜
 
 This project is a Proof of Concept (POC) that demonstrates the integration of AI in the HR industry. The application provides a smart interface to query employee data using natural language. By leveraging Google Gemini for natural language processing and an SQLite database for data storage, this app showcases how AI can streamline data retrieval and analysis for HR professionals.
 
 ![Home](./Images/Home.png)
+
+
+Video Demo :- https://youtu.be/GN_zE5FG-oo?si=LkEOYVyotTVBV6zn
 
 ## Features
 
