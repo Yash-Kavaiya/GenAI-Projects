@@ -5,7 +5,7 @@ This project is a Proof of Concept (POC) that demonstrates the integration of AI
 
 ![Home](./Images/Home.png)
 
-
+Demo link :- https://huggingface.co/spaces/yashkavaiya/HR-Insights
 Video Demo :- https://youtu.be/GN_zE5FG-oo?si=LkEOYVyotTVBV6zn
 
 ## Features
