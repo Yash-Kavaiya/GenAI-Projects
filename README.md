@@ -1,10 +1,120 @@
-# GenAI-Projects
+# 🤖 Generative AI Projects Portfolio
 
-| Project Name | Project Description | Tech Stacks | Link | Blog |
-|---|---|---|---|------|
-| 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗛𝗥 𝗤𝘂𝗲𝗿𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗜 | | Python, Google Gemini, Streamlit | Demo https://youtu.be/GN_zE5FG-oo?si=GnwUr523wjFCW9i7 | https://www.linkedin.com/pulse/transforming-hr-query-management-ai-genai-guru-oxknf/?trackingId=94A0nJvYXYY1BebVK5Y84Q%3D%3D |
-| Websites RAG |Web Scrape,Python ,Flask,Gemini, Langchain| |https://github.com/Yash-Kavaiya/Website-RAG |
-| Legal Assist Chatbot  | |Vertex AI Agent Builder, Cloud Run , RAG   |         | https://github.com/Yash-Kavaiya/Legal-Assist-Chatbot|
-| Investment Planner | Suggest investment planing  | Streamlit, Docker, Vertex AI SDK, Gemini | [Live demo link](https://youtu.be/OPDg4K8Ft9E?si=QiKrNPZ0ORhfVdSB) |
-| Discord Bot | Answer GenAI related quesations |Python ,Gemini ,Discord |[Live demo link](https://youtu.be/cGjR4ExG7zo?si=p8dWQWhlCwHr3JbN)|
-| Analytics with AI  | This is a streamlit app that uses Pandas and AI to perform data analytics on uploaded CSV files | Streamlit, Pandas AI ,Makersuite API | [Live demo link](pandas-ai-website.streamlit.app/)  |
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-AI%20%2B%20%E2%9D%A4%EF%B8%8F-blue?style=for-the-badge" alt="Made with AI + Love"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Vertex AI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</div>
+
+<p align="center">A collection of cutting-edge generative AI projects showcasing practical applications of machine learning and AI technologies.</p>
+
+---
+
+## 📊 Projects Overview
+
+Here's a comprehensive list of my generative AI projects, complete with technologies used and demonstration links.
+
+| Project | Description | Technologies | Demo | Resources |
+|:-------:|-------------|:------------:|:----:|:---------:|
+| **🧠 Transforming HR Query Management with AI** | AI-powered solution for efficient HR query processing and management | <kbd>Python</kbd> <kbd>Google Gemini</kbd> <kbd>Streamlit</kbd> | [▶️ Watch Demo](https://youtu.be/GN_zE5FG-oo?si=GnwUr523wjFCW9i7) | [📝 Blog Post](https://www.linkedin.com/pulse/transforming-hr-query-management-ai-genai-guru-oxknf/?trackingId=94A0nJvYXYY1BebVK5Y84Q%3D%3D) |
+| **🔍 Website RAG System** | Retrieval-Augmented Generation for extracting and querying website content | <kbd>Web Scraping</kbd> <kbd>Python</kbd> <kbd>Flask</kbd> <kbd>Gemini</kbd> <kbd>LangChain</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Website-RAG) |
+| **⚖️ Legal Assist Chatbot** | AI assistant specialized in legal information and guidance | <kbd>Vertex AI Agent Builder</kbd> <kbd>Cloud Run</kbd> <kbd>RAG</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Legal-Assist-Chatbot) |
+| **💰 Investment Planner** | AI-driven financial advisor for personalized investment planning | <kbd>Streamlit</kbd> <kbd>Docker</kbd> <kbd>Vertex AI SDK</kbd> <kbd>Gemini</kbd> | [▶️ Watch Demo](https://youtu.be/OPDg4K8Ft9E?si=QiKrNPZ0ORhfVdSB) | - |
+| **🤖 Discord GenAI Bot** | Interactive bot answering GenAI-related questions via Discord | <kbd>Python</kbd> <kbd>Gemini</kbd> <kbd>Discord API</kbd> | [▶️ Watch Demo](https://youtu.be/cGjR4ExG7zo?si=p8dWQWhlCwHr3JbN) | - |
+| **📈 Analytics with AI** | Streamlit application for AI-powered analytics on CSV data | <kbd>Streamlit</kbd> <kbd>Pandas AI</kbd> <kbd>Makersuite API</kbd> | [🔗 Live Demo](https://pandas-ai-website.streamlit.app/) | - |
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>AI & ML</b></td>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Deployment</b></td>
+    </tr>
+    <tr>
+      <td>
+        • Google Gemini<br>
+        • Vertex AI<br>
+        • LangChain<br>
+        • Retrieval Augmented Generation<br>
+      </td>
+      <td>
+        • Streamlit<br>
+        • Flask<br>
+        • HTML/CSS<br>
+        • JavaScript<br>
+      </td>
+      <td>
+        • Python<br>
+        • Flask<br>
+        • RESTful APIs<br>
+        • Pandas<br>
+      </td>
+      <td>
+        • Docker<br>
+        • Cloud Run<br>
+        • Streamlit Cloud<br>
+        • GitHub<br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Key Features
+
+- **📊 Interactive Visualizations**: Data-driven insights presented through intuitive interfaces
+- **🔄 Real-time Processing**: Immediate responses and processing of user queries
+- **🌐 Cross-platform Compatibility**: Solutions designed to work across different environments
+- **🧩 Modular Architecture**: Components that can be reused across different projects
+- **📱 Responsive Design**: Applications that adapt to various screen sizes and devices
+
+---
+
+## 🚀 Getting Started
+
+Each project has its own setup instructions in its respective repository. Generally, you can get started with:
+
+```bash
+# Clone the specific project repository
+git clone https://github.com/Yash-Kavaiya/[repository-name]
+
+# Navigate to the project directory
+cd [repository-name]
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application (may vary by project)
+python app.py
+# or
+streamlit run app.py
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yash-kavaiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Yash-Kavaiya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/@yash.kavaiya3" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>Feel free to explore these projects, provide feedback, or reach out for collaboration opportunities!</i>
+</p>
