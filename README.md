@@ -1,14 +1,5 @@
 # 🤖 Generative AI Projects Portfolio
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-AI%20%2B%20%E2%9D%A4%EF%B8%8F-blue?style=for-the-badge" alt="Made with AI + Love"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Vertex AI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</div>
-
-<p align="center">A collection of cutting-edge generative AI projects showcasing practical applications of machine learning and AI technologies.</p>
-
 ## 📊 Projects Overview
 
 Here's a comprehensive list of my generative AI projects, complete with technologies used and demonstration links.
@@ -16,7 +7,7 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | Project | Description | Technologies | Live Demo Link | Resources |
 |:-------:|-------------|:------------:|:----:|:---------:|
 | **📈 Agent Buddy** | Your comprehensive toolkit for Google CCAI Dialogflow development. Build, test, and deploy conversational AI agents with powerful tools and resources. | <kbd>Dialogflow</kbd> <kbd>CCAI</kbd> <kbd>Conversational Agents</kbd> | [🔗 Live Demo](https://agent-buddy.lovable.app/) | - |
-| **📈 Google Map AI** | Your comprehensive toolkit for Google CCAI Dialogflow development. Build, test, and deploy conversational AI agents with powerful tools and resources. | <kbd>Dialogflow</kbd> <kbd>CCAI</kbd> <kbd>Conversational Agents</kbd> | [🔗 Live Demo](https://agent-buddy.lovable.app/) | - |
+| **📈 Google Map AI** | Your comprehensive toolkit for Google CCAI Dialogflow development. Build, test, and deploy conversational AI agents with powerful tools and resources. | <kbd>Google-ADK</kbd> <kbd>Google Map</kbd> <kbd>MCP</kbd> <kbd>Next JS</kbd>| [🔗 Live Demo](https://agent-buddy.lovable.app/) | - |
 | **📈 Indigo AI Website** | Your comprehensive toolkit for Google CCAI Dialogflow development. Build, test, and deploy conversational AI agents with powerful tools and resources. | <kbd>Dialogflow</kbd> <kbd>CCAI</kbd> <kbd>Conversational Agents</kbd> | [🔗 Live Demo](https://github.com/Yash-Kavaiya/indigo-AI-website) | [💻 Repository](https://github.com/Yash-Kavaiya/indigo-AI-website)  |
 | **🧠 Transforming HR Query Management with AI** | AI-powered solution for efficient HR query processing and management | <kbd>Python</kbd> <kbd>Google Gemini</kbd> <kbd>Streamlit</kbd> | [▶️ Watch Demo](https://youtu.be/GN_zE5FG-oo?si=GnwUr523wjFCW9i7) | [📝 Blog Post](https://www.linkedin.com/pulse/transforming-hr-query-management-ai-genai-guru-oxknf/?trackingId=94A0nJvYXYY1BebVK5Y84Q%3D%3D) |
 | **📈 ADK No-Code Tool** | Your comprehensive toolkit for Google CCAI Dialogflow development. Build, test, and deploy conversational AI agents with powerful tools and resources. | <kbd>Dialogflow</kbd> <kbd>CCAI</kbd> <kbd>Conversational Agents</kbd> | [🔗 Live Demo](https://agent-buddy.lovable.app/) | - |
