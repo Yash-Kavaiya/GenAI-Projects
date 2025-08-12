@@ -17,14 +17,13 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 | Project | Description | Technologies | Demo | Resources |
 |:-------:|-------------|:------------:|:----:|:---------:|
+| **📈 Agent Buddy** | Your comprehensive toolkit for Google CCAI Dialogflow development. Build, test, and deploy conversational AI agents with powerful tools and resources. | <kbd>Dialogflow</kbd> <kbd>CCAI</kbd> <kbd>Conversational Agents</kbd> | [🔗 Live Demo](https://agent-buddy.lovable.app/) | - |
 | **🧠 Transforming HR Query Management with AI** | AI-powered solution for efficient HR query processing and management | <kbd>Python</kbd> <kbd>Google Gemini</kbd> <kbd>Streamlit</kbd> | [▶️ Watch Demo](https://youtu.be/GN_zE5FG-oo?si=GnwUr523wjFCW9i7) | [📝 Blog Post](https://www.linkedin.com/pulse/transforming-hr-query-management-ai-genai-guru-oxknf/?trackingId=94A0nJvYXYY1BebVK5Y84Q%3D%3D) |
 | **🔍 Website RAG System** | Retrieval-Augmented Generation for extracting and querying website content | <kbd>Web Scraping</kbd> <kbd>Python</kbd> <kbd>Flask</kbd> <kbd>Gemini</kbd> <kbd>LangChain</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Website-RAG) |
 | **⚖️ Legal Assist Chatbot** | AI assistant specialized in legal information and guidance | <kbd>Vertex AI Agent Builder</kbd> <kbd>Cloud Run</kbd> <kbd>RAG</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Legal-Assist-Chatbot) |
 | **💰 Investment Planner** | AI-driven financial advisor for personalized investment planning | <kbd>Streamlit</kbd> <kbd>Docker</kbd> <kbd>Vertex AI SDK</kbd> <kbd>Gemini</kbd> | [▶️ Watch Demo](https://youtu.be/OPDg4K8Ft9E?si=QiKrNPZ0ORhfVdSB) | - |
 | **🤖 Discord GenAI Bot** | Interactive bot answering GenAI-related questions via Discord | <kbd>Python</kbd> <kbd>Gemini</kbd> <kbd>Discord API</kbd> | [▶️ Watch Demo](https://youtu.be/cGjR4ExG7zo?si=p8dWQWhlCwHr3JbN) | - |
 | **📈 Analytics with AI** | Streamlit application for AI-powered analytics on CSV data | <kbd>Streamlit</kbd> <kbd>Pandas AI</kbd> <kbd>Makersuite API</kbd> | [🔗 Live Demo](https://pandas-ai-website.streamlit.app/) | - |
-
----
 
 ## 🛠️ Technology Stack
 
@@ -64,38 +63,6 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
     </tr>
   </table>
 </div>
-
----
-
-## 🎯 Key Features
-
-- **📊 Interactive Visualizations**: Data-driven insights presented through intuitive interfaces
-- **🔄 Real-time Processing**: Immediate responses and processing of user queries
-- **🌐 Cross-platform Compatibility**: Solutions designed to work across different environments
-- **🧩 Modular Architecture**: Components that can be reused across different projects
-- **📱 Responsive Design**: Applications that adapt to various screen sizes and devices
-
----
-
-## 🚀 Getting Started
-
-Each project has its own setup instructions in its respective repository. Generally, you can get started with:
-
-```bash
-# Clone the specific project repository
-git clone https://github.com/Yash-Kavaiya/[repository-name]
-
-# Navigate to the project directory
-cd [repository-name]
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application (may vary by project)
-python app.py
-# or
-streamlit run app.py
-```
 
 ---
 
