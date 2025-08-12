@@ -1,4 +1,4 @@
-# 🤖 Generative AI Projects Portfolio
+# 🤖 Generative AI and AI Agents Projects Portfolio
 
 ## 📊 Projects Overview
 
