@@ -15,7 +15,7 @@
 
 Here's a comprehensive list of my generative AI projects, complete with technologies used and demonstration links.
 
-| Project | Description | Technologies | Demo | Resources |
+| Project | Description | Technologies | Live Demo Link | Resources |
 |:-------:|-------------|:------------:|:----:|:---------:|
 | **📈 Agent Buddy** | Your comprehensive toolkit for Google CCAI Dialogflow development. Build, test, and deploy conversational AI agents with powerful tools and resources. | <kbd>Dialogflow</kbd> <kbd>CCAI</kbd> <kbd>Conversational Agents</kbd> | [🔗 Live Demo](https://agent-buddy.lovable.app/) | - |
 | **🧠 Transforming HR Query Management with AI** | AI-powered solution for efficient HR query processing and management | <kbd>Python</kbd> <kbd>Google Gemini</kbd> <kbd>Streamlit</kbd> | [▶️ Watch Demo](https://youtu.be/GN_zE5FG-oo?si=GnwUr523wjFCW9i7) | [📝 Blog Post](https://www.linkedin.com/pulse/transforming-hr-query-management-ai-genai-guru-oxknf/?trackingId=94A0nJvYXYY1BebVK5Y84Q%3D%3D) |
