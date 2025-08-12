@@ -1,3 +1,0 @@
-google-generativeai
-google-cloud-aiplatform
-discord

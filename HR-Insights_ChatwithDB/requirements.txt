@@ -1,4 +1,0 @@
-faker
-python-dotenv
-streamlit
-google-generativeai
