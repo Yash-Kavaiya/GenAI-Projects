@@ -16,17 +16,43 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **📈In-House Contact Center** | Your comprehensive toolkit for Google CCAI Dialogflow development. Build, test, and deploy conversational AI agents with powerful tools and resources. | <kbd>Dialogflow</kbd> <kbd>CCAI</kbd> <kbd>Conversational Agents</kbd> | [🔗 Live Demo](https://agent-buddy.lovable.app/) | - |
 | **📈call-analytics** | Transform your customer conversations into actionable insights with AI-powered analytics | <kbd>NLP</kbd> <kbd>Speech-to-text</kbd> <kbd>Sentinemt Analysis</kbd> | [🔗 Live Demo](https://call-analyticsnext.vercel.app/) | - |
 | **📈Contact Center AI Feature** | Transform your customer conversations into actionable insights with AI-powered analytics | <kbd>NLP</kbd> <kbd>Speech-to-text</kbd> <kbd>Sentinemt Analysis</kbd> | [🔗 Live Demo](https://contact-center-ai-feature.streamlit.app/) | [💻 Repository](https://github.com/yash-kavaiya/contact-center-ai-feature) |
+| **MediRAG** | MediRAG is a comprehensive healthcare platform that leverages artificial intelligence to provide accessible, personalized healthcare solutions. Built with modern web technologies including JavaScript, TypeScript, and Node.js, it aims to revolutionize patient care, streamline medical processes, and provide easy access to health-related information and services | <kbd>Python</kbd> <kbd>TypeScript</kbd> <kbd>Azure OpenAI</kbd> |  | [Code](https://github.com/Yash-Kavaiya/MediRAG) |
 | **💰 Investment Planner** | AI-driven financial advisor for personalized investment planning | <kbd>Streamlit</kbd> <kbd>Docker</kbd> <kbd>Vertex AI SDK</kbd> <kbd>Gemini</kbd> | [▶️ Watch Demo](https://youtu.be/OPDg4K8Ft9E?si=QiKrNPZ0ORhfVdSB) | - |
 | **🤖 Discord GenAI Bot** | Interactive bot answering GenAI-related questions via Discord | <kbd>Python</kbd> <kbd>Gemini</kbd> <kbd>Discord API</kbd> | [▶️ Watch Demo](https://youtu.be/cGjR4ExG7zo?si=p8dWQWhlCwHr3JbN) | - |
 | **📈 Analytics with AI** | Streamlit application for AI-powered analytics on CSV data | <kbd>Streamlit</kbd> <kbd>Pandas AI</kbd> <kbd>Makersuite API</kbd> | [🔗 Live Demo](https://pandas-ai-website.streamlit.app/) | - |
-
 
 
 AI Agents
 
 - https://github.com/Yash-Kavaiya/notes-converter
 - https://github.com/Yash-Kavaiya/create-notes-agent
+Data Analytics Agents
+- https://github.com/Yash-Kavaiya/Data-Analtics-Agents
+- https://github.com/Yash-Kavaiya/udemy-quiz-ai-agents
+- https://github.com/Yash-Kavaiya/Auto-Testing-ADK-MCP-Playwright
+- https://github.com/Yash-Kavaiya/Devops-AI-Agents
+# Fun, Hobby ,Lifestyle ,Games and Personal Assistant Projects
 
+- https://github.com/Yash-Kavaiya/marriage-compatibility
+- https://github.com/Yash-Kavaiya/YouTubeScreenshotCaptureTool
+- https://github.com/Yash-Kavaiya/naan-shop
+- https://github.com/Yash-Kavaiya/call-analytics
+
+- https://github.com/Yash-Kavaiya/bria-airways
+- https://github.com/Yash-Kavaiya/telegram-url-scraper
+
+- 
+
+# Notes
+- https://github.com/Yash-Kavaiya/100xdevs-0to100
+- https://github.com/Yash-Kavaiya/note-nook-orange
+- https://github.com/Yash-Kavaiya/45daysdevops
+- https://github.com/Yash-Kavaiya/agent-development-kit-crash-course
+- https://github.com/Yash-Kavaiya/IT-Support-Agent
+- https://github.com/Yash-Kavaiya/TeachingDataScience
+- https://github.com/Yash-Kavaiya/Udemy-Master-Google-Dialogflow-CX
+- https://github.com/Yash-Kavaiya/StyleSnap
+- 
 ## 🛠️ Technology Stack
 
 <div align="center">
