@@ -37,7 +37,7 @@ Data Analytics Agents
 - https://github.com/Yash-Kavaiya/YouTubeScreenshotCaptureTool
 - https://github.com/Yash-Kavaiya/naan-shop
 - https://github.com/Yash-Kavaiya/call-analytics
-
+- https://github.com/Yash-Kavaiya/truth-and-dare-game
 - https://github.com/Yash-Kavaiya/bria-airways
 - https://github.com/Yash-Kavaiya/telegram-url-scraper
 
