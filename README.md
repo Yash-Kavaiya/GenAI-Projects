@@ -22,15 +22,19 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **📈 Analytics with AI** | Streamlit application for AI-powered analytics on CSV data | <kbd>Streamlit</kbd> <kbd>Pandas AI</kbd> <kbd>Makersuite API</kbd> | [🔗 Live Demo](https://pandas-ai-website.streamlit.app/) | - |
 
 
-AI Agents
+## 🤖 AI Agents
 
-- https://github.com/Yash-Kavaiya/notes-converter
-- https://github.com/Yash-Kavaiya/create-notes-agent
-Data Analytics Agents
-- https://github.com/Yash-Kavaiya/Data-Analtics-Agents
-- https://github.com/Yash-Kavaiya/udemy-quiz-ai-agents
-- https://github.com/Yash-Kavaiya/Auto-Testing-ADK-MCP-Playwright
-- https://github.com/Yash-Kavaiya/Devops-AI-Agents
+| Project | Description | Technologies | Live Demo Link | Resources |
+|:-------:|-------------|:------------:|:----:|:---------:|
+| **📝 Notes Converter** | AI-powered tool to convert and create notes | <kbd>AI</kbd> <kbd>Youtube</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/notes-converter) |
+| **📋 Create Notes Agent** | Intelligent agent for automated note creation and organization | <kbd>AI Agents</kbd> <kbd>NLP</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/create-notes-agent) |
+| **📊 Data Analytics Agents** | Comprehensive suite of AI agents for data analysis and insights | <kbd>Python</kbd> <kbd>Data Science</kbd> <kbd>Google Adk</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Data-Analtics-Agents) |
+| **🎓 Udemy Quiz AI Agents** | AI-powered agents for generating and managing Udemy course quizzes | <kbd>Education</kbd> <kbd>Quiz Generation</kbd> <kbd>AI</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/udemy-quiz-ai-agents) |
+| **🧪 Auto Testing ADK MCP Playwright** | Automated testing framework using ADK, MCP, and Playwright technologies | <kbd>Playwright</kbd> <kbd>ADK</kbd> <kbd>MCP</kbd> <kbd>Testing</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Auto-Testing-ADK-MCP-Playwright) |
+| **⚙️ DevOps AI Agents** | AI-powered agents for DevOps automation and infrastructure management | <kbd>DevOps</kbd> <kbd>Automation</kbd> <kbd>AI</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Devops-AI-Agents) |
+- https://github.com/Yash-Kavaiya/IT-Support-Agent
+
+
 # Fun, Hobby ,Lifestyle ,Games and Personal Assistant Projects
 
 - https://github.com/Yash-Kavaiya/marriage-compatibility
@@ -40,18 +44,20 @@ Data Analytics Agents
 - https://github.com/Yash-Kavaiya/truth-and-dare-game
 - https://github.com/Yash-Kavaiya/bria-airways
 - https://github.com/Yash-Kavaiya/telegram-url-scraper
-
+- https://github.com/Yash-Kavaiya/StyleSnap
 - 
 
-# Notes
-- https://github.com/Yash-Kavaiya/100xdevs-0to100
-- https://github.com/Yash-Kavaiya/note-nook-orange
-- https://github.com/Yash-Kavaiya/45daysdevops
-- https://github.com/Yash-Kavaiya/agent-development-kit-crash-course
-- https://github.com/Yash-Kavaiya/IT-Support-Agent
-- https://github.com/Yash-Kavaiya/TeachingDataScience
-- https://github.com/Yash-Kavaiya/Udemy-Master-Google-Dialogflow-CX
-- https://github.com/Yash-Kavaiya/StyleSnap
+## 📚 Notes & Learning Resources
+
+| Project | Description | Resources |
+|:-------:|-------------|:---------:|
+| **💻 100xDevs 0-to-100** | Comprehensive web development course notes covering full-stack development from basics to advanced concepts | [💻 Repository](https://github.com/Yash-Kavaiya/100xdevs-0to100) |
+| **📝 Note Nook Orange** | Modern note-taking application with advanced features for organizing and managing personal notes | [💻 Repository](https://github.com/Yash-Kavaiya/note-nook-orange) |
+| **🚀 45 Days DevOps** | Intensive DevOps learning journey covering essential tools, practices, and methodologies in 45 days | [💻 Repository](https://github.com/Yash-Kavaiya/45daysdevops) |
+| **🛠️ Agent Development Kit Crash Course** | Comprehensive crash course on building AI agents using Google's Agent Development Kit | [💻 Repository](https://github.com/Yash-Kavaiya/agent-development-kit-crash-course) |
+| **📊 Teaching Data Science** | Educational resources and materials for learning and teaching data science concepts | [💻 Repository](https://github.com/Yash-Kavaiya/TeachingDataScience) |
+| **🤖 Master Google Dialogflow CX** | Udemy course materials for mastering Google Dialogflow CX development and conversational AI | [💻 Repository](https://github.com/Yash-Kavaiya/Udemy-Master-Google-Dialogflow-CX) |
+
 - 
 ## 🛠️ Technology Stack
 
@@ -61,32 +67,85 @@ Data Analytics Agents
       <td align="center"><b>AI & ML</b></td>
       <td align="center"><b>Frontend</b></td>
       <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Deployment</b></td>
+      <td align="center"><b>Cloud & Deployment</b></td>
     </tr>
     <tr>
       <td>
         • Google Gemini<br>
         • Vertex AI<br>
+        • Azure OpenAI<br>
         • LangChain<br>
         • Retrieval Augmented Generation<br>
+        • Dialogflow CX<br>
+        • CCAI (Contact Center AI)<br>
+        • Sentiment Analysis<br>
+        • Speech-to-Text<br>
+        • NLP<br>
       </td>
       <td>
-        • Streamlit<br>
-        • Flask<br>
-        • HTML/CSS<br>
+        • React<br>
+        • Next.js<br>
+        • TypeScript<br>
         • JavaScript<br>
+        • Streamlit<br>
+        • HTML/CSS<br>
+        • Netlify<br>
+        • Vercel<br>
       </td>
       <td>
         • Python<br>
+        • Node.js<br>
         • Flask<br>
         • RESTful APIs<br>
         • Pandas<br>
+        • FastAPI<br>
+        • Discord API<br>
+        • Google Maps API<br>
       </td>
       <td>
         • Docker<br>
-        • Cloud Run<br>
+        • Google Cloud Run<br>
+        • Vertex AI Agent Builder<br>
         • Streamlit Cloud<br>
         • GitHub<br>
+        • DevOps Automation<br>
+        • Kubernetes<br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>AI Agent Development</b></td>
+      <td align="center"><b>Testing & Automation</b></td>
+      <td align="center"><b>Data & Analytics</b></td>
+      <td align="center"><b>Specialized Tools</b></td>
+    </tr>
+    <tr>
+      <td>
+        • Google ADK<br>
+        • MCP (Model Context Protocol)<br>
+        • Conversational AI<br>
+        • AI Agent Builder<br>
+        • Bot Development<br>
+      </td>
+      <td>
+        • Playwright<br>
+        • Automated Testing<br>
+        • CI/CD Pipelines<br>
+        • Quality Assurance<br>
+      </td>
+      <td>
+        • Pandas AI<br>
+        • Data Science<br>
+        • CSV Analytics<br>
+        • Business Intelligence<br>
+        • Call Analytics<br>
+      </td>
+      <td>
+        • Web Scraping<br>
+        • Video Processing<br>
+        • Healthcare AI<br>
+        • Legal Tech<br>
+        • Educational AI<br>
+        • Financial Planning AI<br>
       </td>
     </tr>
   </table>
