@@ -35,17 +35,18 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 - https://github.com/Yash-Kavaiya/IT-Support-Agent
 
 
-# Fun, Hobby ,Lifestyle ,Games and Personal Assistant Projects
+## 🎮 Fun, Hobby, Lifestyle, Games and Personal Assistant Projects
 
-- https://github.com/Yash-Kavaiya/marriage-compatibility
-- https://github.com/Yash-Kavaiya/YouTubeScreenshotCaptureTool
-- https://github.com/Yash-Kavaiya/naan-shop
-- https://github.com/Yash-Kavaiya/call-analytics
-- https://github.com/Yash-Kavaiya/truth-and-dare-game
-- https://github.com/Yash-Kavaiya/bria-airways
-- https://github.com/Yash-Kavaiya/telegram-url-scraper
-- https://github.com/Yash-Kavaiya/StyleSnap
-- 
+| Project | Description | Technologies | Live Demo Link | Resources |
+|:-------:|-------------|:------------:|:----:|:---------:|
+| **💕 Marriage Compatibility** | AI-powered compatibility analysis tool for relationships and marriage matching | <kbd>AI</kbd> <kbd>Python</kbd> <kbd>Compatibility Analysis</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/marriage-compatibility) |
+| **📸 YouTube Screenshot Capture Tool** | Tool for capturing and managing screenshots from YouTube videos | <kbd>Python</kbd> <kbd>Video Processing</kbd> <kbd>Screenshots</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/YouTubeScreenshotCaptureTool) |
+| **🍞 Naan Shop** | Digital solution for naan shop management and ordering system | <kbd>Web Development</kbd> <kbd>E-commerce</kbd> <kbd>Food Service</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/naan-shop) |
+| **📞 Call Analytics** | Advanced analytics platform for call center performance and insights | <kbd>Analytics</kbd> <kbd>Call Center</kbd> <kbd>Data Visualization</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/call-analytics) |
+| **🎲 Truth and Dare Game** | Interactive digital version of the classic truth and dare party game | <kbd>Game Development</kbd> <kbd>Interactive</kbd> <kbd>Entertainment</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/truth-and-dare-game) |
+| **✈️ Bria Airways** | Airline management and booking system simulation | <kbd>Travel</kbd> <kbd>Booking System</kbd> <kbd>Airlines</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/bria-airways) |
+| **🔗 Telegram URL Scraper** | Tool for extracting and managing URLs from Telegram channels and chats | <kbd>Web Scraping</kbd> <kbd>Telegram API</kbd> <kbd>Data Extraction</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/telegram-url-scraper) |
+| **📱 StyleSnap** | Fashion and style recommendation app with AI-powered suggestions | <kbd>Fashion Tech</kbd> <kbd>AI Recommendations</kbd> <kbd>Style Analysis</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/StyleSnap) |
 
 ## 📚 Notes & Learning Resources
 
