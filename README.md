@@ -32,7 +32,8 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **🎓 Udemy Quiz AI Agents** | AI-powered agents for generating and managing Udemy course quizzes | <kbd>Education</kbd> <kbd>Quiz Generation</kbd> <kbd>AI</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/udemy-quiz-ai-agents) |
 | **🧪 Auto Testing ADK MCP Playwright** | Automated testing framework using ADK, MCP, and Playwright technologies | <kbd>Playwright</kbd> <kbd>ADK</kbd> <kbd>MCP</kbd> <kbd>Testing</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Auto-Testing-ADK-MCP-Playwright) |
 | **⚙️ DevOps AI Agents** | AI-powered agents for DevOps automation and infrastructure management | <kbd>DevOps</kbd> <kbd>Automation</kbd> <kbd>AI</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/Devops-AI-Agents) |
-- https://github.com/Yash-Kavaiya/IT-Support-Agent
+| **⚙️IT-Support-Agent** | AI-powered agents for DevOps automation and infrastructure management | <kbd>DevOps</kbd> <kbd>Automation</kbd> <kbd>AI</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/IT-Support-Agent) |
+- 
 
 
 ## 🎮 Fun, Hobby, Lifestyle, Games and Personal Assistant Projects
