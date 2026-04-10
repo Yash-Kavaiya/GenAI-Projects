@@ -83,6 +83,7 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
         • Sentiment Analysis<br>
         • Speech-to-Text<br>
         • NLP<br>
+        • V-DB(Vector Database)<br>
       </td>
       <td>
         • React<br>
@@ -148,6 +149,17 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
         • Legal Tech<br>
         • Educational AI<br>
         • Financial Planning AI<br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>LLM Models</b></td>
+    </tr>
+    <tr>
+      <td>
+        • qwen2.5-coder(Local Model)-Ollama<br>
+        • llama3.2(Local Model)-Ollama<br>
+        • deepseek-ai/DeepSeek-R1(Open_Source)-HF<br>
+        • mistralai/Mistral-Small-4-119B-2603(Open_Source)-HF<br>
       </td>
     </tr>
   </table>
