@@ -200,13 +200,20 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Sync note (2026-09-30):** The X API was unavailable in this environment (`credits depleted` on `get_users_by_username` / posts lookup). No posts were fetched, so none are listed. On the next sync, replace this note with posts actually returned for `@yashkavaiya` (tweet text, date, and `https://x.com/.../status/...` URL). Do not invent posts.
+Last synced: 2026-10-08 (IST).
 
-`gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
-
-| Date | Post | Link |
-|:----:|------|:----:|
-| — | No posts fetched this run. | — |
+| Date (IST) | Summary | Links |
+|:----------:|---------|-------|
+| 2026-10-08 | NVIDIA and Microsoft launch RTX Spark workstations for local AI on Windows PCs (GB300 acceleration on developer desktops; pre-orders open Oct 16). | [Post](https://x.com/yashkavaiya/status/2108106951154696565) |
+| 2026-10-08 | Apple expands rollout of Siri AI powered by Apple Intelligence (on-screen awareness, cross-app actions via App Intents, Private Cloud Compute). | [Post](https://x.com/yashkavaiya/status/2108071893869928937) · [Link](https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/) |
+| 2026-10-08 | TauricResearch/TradingAgents, an open-source multi-agent LLM financial trading framework (research, sentiment analysis, risk-managed execution agents). | [Post](https://x.com/yashkavaiya/status/2108056289817555214) · [Repo](https://github.com/tauricresearch/tradingagents) |
+| 2026-10-07 | AWS expands Amazon Bedrock Managed Agents: multi-agent orchestration, workflow automation, more regions for enterprise GenAI. | [Post](https://x.com/yashkavaiya/status/2107860134861197345) |
+| 2026-10-02 | Live stream with @RaajKapadia on OpenAI DevDay updates (recording available). | [Post](https://x.com/yashkavaiya/status/2106056712784658821) · [Recording](https://x.com/i/broadcasts/1MJgNbvepXAGL) |
+| 2026-10-02 | Demo of submitting a couple of apps to the Google Play Store; open call for testers (internal test track). | [Post](https://x.com/yashkavaiya/status/2106014973503930523) |
+| 2026-10-01 | Claude Certified Associate Foundation practice tests 1–5 (video thread). | [Post](https://x.com/yashkavaiya/status/2105724075465412983) |
+| 2026-09-30 | Shared this GenAI-Projects collection. | [Post](https://x.com/yashkavaiya/status/2105364172578095373) |
+| 2026-09-30 | Clips and notes from IISc NPTEL "Lec 16 Pedagogy in the Times of AI" (AI agents, compute concentration, education). | [Post](https://x.com/yashkavaiya/status/2105219072841650591) · [Lecture](https://youtu.be/N2a1J0UPeL4) |
+| 2026-09-29 | OpenAI DevDay 2026 recap. | [Post](https://x.com/yashkavaiya/status/2104993651197899161) · [Link](https://openai.com/index/devday-2026-recap/) |
 
 ## 📫 Connect With Me
 
