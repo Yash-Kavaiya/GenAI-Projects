@@ -35,6 +35,7 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **📐 Mermaid Edit & Export** | Mermaid diagram editor with AI-powered generation, theming, and export. | <kbd>Gemini</kbd> <kbd>React</kbd> <kbd>TypeScript</kbd> | [🔗 Live Demo](https://mermaid-edit-export.lovable.app) | [💻 Repository](https://github.com/Yash-Kavaiya/mermaid-edit-export) |
 | **📝 TeXAI Studio** | Browser LaTeX editor with in-browser pdfTeX and optional AI-generated project templates. | <kbd>TypeScript</kbd> <kbd>LaTeX</kbd> <kbd>AI</kbd> | [🔗 Live Demo](https://texai-studio.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/TeXAI-Studio) |
 | **💼 AI Job Alchemist** | Candidate and recruiter job platform hosted for the CCAI job site. | <kbd>React</kbd> <kbd>Vite</kbd> <kbd>Firebase</kbd> <kbd>TypeScript</kbd> | [🔗 Live Demo](https://ccai-job-website.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/ccai-job-website) |
+| **⚽ Kickstream** | Football live-streaming studio (Streamlabs/StreamYard-style) with multi-destination go-live, match event intelligence, AI narratives/recaps, and AI agents that turn best moments into vertical reels. | <kbd>Python</kbd> <kbd>Node</kbd> <kbd>AI Agents</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/kickstream) |
 
 
 ## 🤖 AI Agents
@@ -200,13 +201,16 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Sync note (2026-09-30):** The X API was unavailable in this environment (`credits depleted` on `get_users_by_username` / posts lookup). No posts were fetched, so none are listed. On the next sync, replace this note with posts actually returned for `@yashkavaiya` (tweet text, date, and `https://x.com/.../status/...` URL). Do not invent posts.
+**Last synced:** 2026-10-15 (IST).
 
 `gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
 
-| Date | Post | Link |
-|:----:|------|:----:|
-| — | No posts fetched this run. | — |
+| Date (IST) | Summary | Post | Project |
+|:----------:|---------|:----:|:-------:|
+| 2026-10-15 4:16 PM | Announced Kickstream: free football live-streaming platform; linked GitHub repo. | [Post](https://x.com/i/status/2110683670281589040) | [GitHub](https://github.com/Yash-Kavaiya/kickstream) |
+| 2026-10-15 1:59 PM | Shared Kickstream again as a business-need live-stream build. | [Post](https://x.com/i/status/2110649247968514318) | [GitHub](https://github.com/Yash-Kavaiya/kickstream) |
+| 2026-10-15 1:58 PM | Described running 672 GitHub repos as a live portfolio with Grok Bot watching deploys, CI, and security every 4 hours. | [Post](https://x.com/i/status/2110649062970327535) | — |
+| 2026-10-15 1:53 PM | Linked Ask Q Live (already listed in the portfolio table). | [Post](https://x.com/i/status/2110647850241769836) | [Live](https://askqlive.com/) |
 
 ## 📫 Connect With Me
 
