@@ -36,6 +36,7 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **📝 TeXAI Studio** | Browser LaTeX editor with in-browser pdfTeX and optional AI-generated project templates. | <kbd>TypeScript</kbd> <kbd>LaTeX</kbd> <kbd>AI</kbd> | [🔗 Live Demo](https://texai-studio.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/TeXAI-Studio) |
 | **💼 AI Job Alchemist** | Candidate and recruiter job platform hosted for the CCAI job site. | <kbd>React</kbd> <kbd>Vite</kbd> <kbd>Firebase</kbd> <kbd>TypeScript</kbd> | [🔗 Live Demo](https://ccai-job-website.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/ccai-job-website) |
 | **⚽ Kickstream** | Football live-streaming studio (Streamlabs/StreamYard-style) with multi-destination go-live, match event intelligence, AI narratives/recaps, and AI agents that turn best moments into vertical reels. | <kbd>Python</kbd> <kbd>Node</kbd> <kbd>AI Agents</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/kickstream) |
+| **📺 Live Stream Labs** | Browser live-streaming studio (StreamYard-style) with guests, layouts, multi-platform RTMP, cricket score overlays, and a Daily AI news rundown that auto-collects AI news and runs with an on-screen teleprompter. | <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>LiveKit</kbd> <kbd>AI news</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/live-stream-labs) |
 
 
 ## 🤖 AI Agents
@@ -201,12 +202,15 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Last synced:** 2026-10-15 (IST).
+**Last synced:** 2026-10-16 (IST).
 
 `gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-10-16 9:47 AM | Promoted AI Daily software for daily AI news with auto-fetch and a script teleprompter. The post attached a studio screenshot; the public repo is live-stream-labs. | [Post](https://x.com/i/status/2110948110361034827) | [GitHub](https://github.com/Yash-Kavaiya/live-stream-labs) |
+| 2026-10-16 12:34 AM | Dropped Ask Q Live in a startup-promo thread (already listed in the portfolio table). | [Post](https://x.com/i/status/2110808953273905599) | [Live](https://askqlive.com/) |
+| 2026-10-15 6:41 PM | Grok Bot live-portfolio reply covering 672 repos, with deploys, CI, and security watched every 4 hours. | [Post](https://x.com/i/status/2110720124499947675) | — |
 | 2026-10-15 4:16 PM | Announced Kickstream: free football live-streaming platform; linked GitHub repo. | [Post](https://x.com/i/status/2110683670281589040) | [GitHub](https://github.com/Yash-Kavaiya/kickstream) |
 | 2026-10-15 1:59 PM | Shared Kickstream again as a business-need live-stream build. | [Post](https://x.com/i/status/2110649247968514318) | [GitHub](https://github.com/Yash-Kavaiya/kickstream) |
 | 2026-10-15 1:58 PM | Described running 672 GitHub repos as a live portfolio with Grok Bot watching deploys, CI, and security every 4 hours. | [Post](https://x.com/i/status/2110649062970327535) | — |
