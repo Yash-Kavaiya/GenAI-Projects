@@ -37,6 +37,8 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **💼 AI Job Alchemist** | Candidate and recruiter job platform hosted for the CCAI job site. | <kbd>React</kbd> <kbd>Vite</kbd> <kbd>Firebase</kbd> <kbd>TypeScript</kbd> | [🔗 Live Demo](https://ccai-job-website.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/ccai-job-website) |
 | **⚽ Kickstream** | Football live-streaming studio (Streamlabs/StreamYard-style) with multi-destination go-live, match event intelligence, AI narratives/recaps, and AI agents that turn best moments into vertical reels. | <kbd>Python</kbd> <kbd>Node</kbd> <kbd>AI Agents</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/kickstream) |
 | **📺 Live Stream Labs** | Browser live-streaming studio (StreamYard-style) with guests, layouts, multi-platform RTMP, cricket score overlays, and a Daily AI news rundown that auto-collects AI news and runs with an on-screen teleprompter. | <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>LiveKit</kbd> <kbd>AI news</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/live-stream-labs) |
+| **🎙️ Mye Physics Voice Studio** | Physics lessons that check their own voice: AssemblyAI TTS narration verified by Universal STT, ManimGX animation, word-timed captions, and spoken Q&A. | <kbd>AssemblyAI TTS</kbd> <kbd>Universal STT</kbd> <kbd>ManimGX</kbd> <kbd>Python</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/mye-physics-voice-studio) |
+| **🏏 CricStudio Voice** | Live AI cricket commentary you can talk to, with AssemblyAI TTS, streaming STT, and an LLM Gateway commentator on a cricket broadcast studio. | <kbd>AssemblyAI</kbd> <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>LLM Gateway</kbd> | [🔗 Live Demo](https://cricstudio-voice.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/cricstudio-voice) |
 
 
 ## 🤖 AI Agents
@@ -202,12 +204,15 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Last synced:** 2026-10-16 (IST).
+**Last synced:** 2026-10-19 (IST).
 
 `gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-10-18 9:23 PM | Announced Mye Physics Voice Studio for AssemblyAI's #HackIntoSpeech Voice Hackathon Week: AI physics lessons whose TTS narration is re-transcribed by STT and auto-fixed if misread, plus voice Q&A with the teacher. | [Post](https://x.com/i/status/2111848094652633404) | [GitHub](https://github.com/Yash-Kavaiya/mye-physics-voice-studio) |
+| 2026-10-17 10:11 PM | Streamed an IND vs WI live watch-along with live score and AI commentary. | [Post](https://x.com/i/status/2111497948467241247) | — |
+| 2026-10-16 8:26 PM | Described running a Grok Bot crew of AI agents (X Free Credits Finder, Recruiting Coordinator, LinkedIn Agent). | [Post](https://x.com/i/status/2111108982576455713) | — |
 | 2026-10-16 9:47 AM | Promoted AI Daily software for daily AI news with auto-fetch and a script teleprompter. The post attached a studio screenshot; the public repo is live-stream-labs. | [Post](https://x.com/i/status/2110948110361034827) | [GitHub](https://github.com/Yash-Kavaiya/live-stream-labs) |
 | 2026-10-16 12:34 AM | Dropped Ask Q Live in a startup-promo thread (already listed in the portfolio table). | [Post](https://x.com/i/status/2110808953273905599) | [Live](https://askqlive.com/) |
 | 2026-10-15 6:41 PM | Grok Bot live-portfolio reply covering 672 repos, with deploys, CI, and security watched every 4 hours. | [Post](https://x.com/i/status/2110720124499947675) | — |
