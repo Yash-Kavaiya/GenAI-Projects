@@ -36,6 +36,7 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **📝 TeXAI Studio** | Browser LaTeX editor with in-browser pdfTeX and optional AI-generated project templates. | <kbd>TypeScript</kbd> <kbd>LaTeX</kbd> <kbd>AI</kbd> | [🔗 Live Demo](https://texai-studio.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/TeXAI-Studio) |
 | **💼 AI Job Alchemist** | Candidate and recruiter job platform hosted for the CCAI job site. | <kbd>React</kbd> <kbd>Vite</kbd> <kbd>Firebase</kbd> <kbd>TypeScript</kbd> | [🔗 Live Demo](https://ccai-job-website.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/ccai-job-website) |
 | **⚽ Kickstream** | Football live-streaming studio (Streamlabs/StreamYard-style) with multi-destination go-live, match event intelligence, AI narratives/recaps, and AI agents that turn best moments into vertical reels. | <kbd>Python</kbd> <kbd>Node</kbd> <kbd>AI Agents</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/kickstream) |
+| **🏗️ Crane Shed 3D + 2D Drawing Set (Claude artifact)** | Interactive 3D model and dimensioned 2D drawings of a 60 × 54 ft crane shed from a hand sketch, with a working EOT crane, in English and Gujarati. | <kbd>Claude</kbd> | [🔗 Live Demo](https://claude.ai/artifact/GYz1PnvTTwbv6UsVV5xfr2) | - |
 
 
 ## 🤖 AI Agents
@@ -201,12 +202,14 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Last synced:** 2026-10-15 (IST).
+**Last synced:** 2026-10-22 (IST).
 
 `gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-10-21 4:36 PM | Turned a hand sketch of a 60 × 54 ft crane shed into an interactive 3D + 2D drawing set with Claude: 12 columns, 22 ft + 6 ft gaddar, a working EOT crane, roof, and dimensioned plan and elevations, in English and Gujarati. | [Post](https://x.com/i/status/2112862968786608633) | [Live demo](https://claude.ai/artifact/GYz1PnvTTwbv6UsVV5xfr2) |
+| 2026-10-21 2:37 PM | Kickstream Live Streaming Platform for Football Fans. | [Post](https://x.com/i/status/2112833100636102778) [Broadcast](https://x.com/i/broadcasts/1nGnRBDVEakGO) | [GitHub](https://github.com/Yash-Kavaiya/kickstream) |
 | 2026-10-15 4:16 PM | Announced Kickstream: free football live-streaming platform; linked GitHub repo. | [Post](https://x.com/i/status/2110683670281589040) | [GitHub](https://github.com/Yash-Kavaiya/kickstream) |
 | 2026-10-15 1:59 PM | Shared Kickstream again as a business-need live-stream build. | [Post](https://x.com/i/status/2110649247968514318) | [GitHub](https://github.com/Yash-Kavaiya/kickstream) |
 | 2026-10-15 1:58 PM | Described running 672 GitHub repos as a live portfolio with Grok Bot watching deploys, CI, and security every 4 hours. | [Post](https://x.com/i/status/2110649062970327535) | — |
