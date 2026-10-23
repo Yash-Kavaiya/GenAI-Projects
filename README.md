@@ -210,6 +210,7 @@ Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention 
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-10-23 2:18 PM | CricStudio Voice: Live Cricket Broadcasts You Can Talk To, Built on AssemblyAI — an AI cricket commentator you can hear, read as live captions, and talk back to mid-match, built on AssemblyAI (TTS, Universal-Streaming captions, Voice Agent API, LLM Gateway) for AssemblyAI's Voice Hackathon. | [Post](https://x.com/yashkavaiya/status/2113553040171209112) [Article](https://x.com/yashkavaiya/status/2113552741436129518) | [Live](https://cricstudio-voice.vercel.app) [GitHub](https://github.com/Yash-Kavaiya/cricstudio-voice) |
 | 2026-10-18 9:23 PM | Announced Mye Physics Voice Studio for AssemblyAI's #HackIntoSpeech Voice Hackathon Week: AI physics lessons whose TTS narration is re-transcribed by STT and auto-fixed if misread, plus voice Q&A with the teacher. | [Post](https://x.com/i/status/2111848094652633404) | [GitHub](https://github.com/Yash-Kavaiya/mye-physics-voice-studio) |
 | 2026-10-17 10:11 PM | Streamed an IND vs WI live watch-along with live score and AI commentary. | [Post](https://x.com/i/status/2111497948467241247) | — |
 | 2026-10-16 8:26 PM | Described running a Grok Bot crew of AI agents (X Free Credits Finder, Recruiting Coordinator, LinkedIn Agent). | [Post](https://x.com/i/status/2111108982576455713) | — |
