@@ -205,12 +205,14 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Last synced:** 2026-10-26 (IST).
+**Last synced:** 2026-10-28 (IST).
 
 `gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-10-28 9:02 AM | TeXAI Studio X Article deep dive: "TeXAI-Studio: A LaTeX Editor That Compiles Your PDF Right in the Browser" — in-browser pdfLaTeX + BibTeX via WebAssembly, live PDF preview, optional AI project templates. | [Post](https://x.com/yashkavaiya/status/2115285636320199038) [Article](https://x.com/yashkavaiya/status/2115285408971989493) | [Live](https://texai-studio.vercel.app) [GitHub](https://github.com/Yash-Kavaiya/TeXAI-Studio) |
+| 2026-10-27 9:28 PM | AIJobHub X Article deep dive: "AIJobHub: A Job Board Built Only for AI Roles, for Candidates and Recruiters" — AI-only job board with resume ATS feedback, mock interviews, recruiter portal; React + Firebase. | [Post](https://x.com/yashkavaiya/status/2115110848574136712) [Article](https://x.com/yashkavaiya/status/2115110703904305616) | [Live](https://ccai-job-website.vercel.app) [GitHub](https://github.com/Yash-Kavaiya/ccai-job-website) |
 | 2026-10-26 8:09 AM | Reposted GDG Baroda's DevFest Baroda recap of Yash's session 'Building Real-Time Voice Agents with Google ADK' (voice agents that listen and respond in real time). | [Post](https://x.com/i/status/2114316873458454965) | [GitHub](https://github.com/Yash-Kavaiya/voice-agent-adk-devfest) |
 | 2026-10-25 9:12 AM | Research Buddy X Article deep dive: 59 research skills that run real scripts against arXiv, Semantic Scholar and PubMed, cite every source and flag anything unverified; bring your own key. | [Post](https://x.com/yashkavaiya/status/2114200778076270784) [Article](https://x.com/yashkavaiya/status/2114200641845268975) | [Live](https://research-buddy-ten.vercel.app) [GitHub](https://github.com/Yash-Kavaiya/research-buddy) |
 | 2026-10-24 9:41 AM | Madad AI X Article deep dive: IT help desk where you show the problem by screenshot, camera, live video or voice, and Gemini suggests a fix and writes the ticket. | [Post](https://x.com/yashkavaiya/status/2113845855342023154) [Article](https://x.com/yashkavaiya/status/2113845697732645361) | [Live](https://madad-ai-759503671462.us-central1.run.app) [GitHub](https://github.com/Yash-Kavaiya/Madad-AI) |
