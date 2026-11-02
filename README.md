@@ -67,6 +67,7 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **📋 AppSheet Agent Skill** | Agent skill for designing, securing, and operating Google AppSheet apps. | <kbd>Agent Skills</kbd> <kbd>AppSheet</kbd> <kbd>Python</kbd> | [🔗 Skills page](https://www.skills.sh/yash-kavaiya/appsheet-agent-skill/google-appsheet-production) | [💻 Repository](https://github.com/Yash-Kavaiya/appsheet-agent-skill) |
 | **🦀 cxas-harness** | Rust CLI and documentation for the CX Agent Studio scripting API. | <kbd>Rust</kbd> <kbd>Dialogflow</kbd> <kbd>CX Agent Studio</kbd> | [🔗 Docs](https://yash-kavaiya.github.io/cxas-harness/) | [💻 Repository](https://github.com/Yash-Kavaiya/cxas-harness) |
 | **📎 CXAS Workspace Add-on** | Google Workspace add-on for inspecting CX Agent Studio agents from Gmail, Drive, Sheets, and Docs. | <kbd>Apps Script</kbd> <kbd>CX Agent Studio</kbd> <kbd>Python</kbd> | [🔗 Docs](https://yash-kavaiya.github.io/cxas-workspace-addon/) | [💻 Repository](https://github.com/Yash-Kavaiya/cxas-workspace-addon) |
+| **🎙️ Voice Agent ADK DevFest** | Voice Google ADK agent scaffolded in one command with Agents CLI and Antigravity. Companion repo for the DevFest Jalandhar 2026 talk. | <kbd>Google ADK</kbd> <kbd>Python</kbd> <kbd>Agents CLI</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/voice-agent-adk-devfest) |
 - 
 
 
@@ -82,6 +83,7 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **✈️ Bria Airways** | AI airline customer-service platform with a Dialogflow CX assistant. | <kbd>Dialogflow CX</kbd> <kbd>Flask</kbd> <kbd>Python</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/bria-airways) |
 | **🔗 Telegram URL Scraper** | Tool for extracting and managing URLs from Telegram channels and chats | <kbd>Web Scraping</kbd> <kbd>Telegram API</kbd> <kbd>Data Extraction</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/telegram-url-scraper) |
 | **📱 StyleSnap** | Fashion and style recommendation app with AI-powered suggestions | <kbd>Fashion Tech</kbd> <kbd>AI Recommendations</kbd> <kbd>Python</kbd> | [▶️ Watch Demo](https://www.youtube.com/shorts/LGll3aSwN0o) | [💻 Repository](https://github.com/Yash-Kavaiya/StyleSnap) |
+| **🏫 SVNIT Virtual Tour** | Browser 3D walkthrough of the SVNIT Surat campus from OpenStreetMap data, with a guided narrated tour, drone mode, and walk-in interiors. | <kbd>three.js</kbd> <kbd>JavaScript</kbd> <kbd>OpenStreetMap</kbd> | [🔗 Live Demo](https://svnit-virtual-tour.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/svnit-virtual-tour) |
 
 ## 📚 Notes & Learning Resources
 
@@ -206,12 +208,16 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Last synced:** 2026-10-30 (IST).
+**Last synced:** 2026-11-02 (IST).
 
 `gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-11-02 9:07 AM | cxas-harness X Article deep dive: "cxas-harness: A Machine-First Rust CLI for Google's CX Agent Studio" — Rust rewrite of cxas-scrapi: JSON-by-default `cxas` binary, fixed exit codes, all 170 CES API methods addressable (37 typed), parity checks against vendored discovery docs. | [Post](https://x.com/yashkavaiya/status/2117098828834742365) [Article](https://x.com/yashkavaiya/status/2117098656197234930) | [Docs](https://yash-kavaiya.github.io/cxas-harness/) [GitHub](https://github.com/Yash-Kavaiya/cxas-harness) |
+| 2026-11-02 12:07 AM | Spoke at DevFest Jalandhar 2026 (GDG Jalandhar, CT Group of Institutions) on 'A voice agent, scaffolded in one command': building a voice Google ADK agent with Agents CLI and Antigravity. | [Post](https://x.com/yashkavaiya/status/2116962809531744676) | [GitHub](https://github.com/Yash-Kavaiya/voice-agent-adk-devfest) |
+| 2026-11-01 11:43 AM | SVNIT Virtual Tour X Article deep dive: "SVNIT Surat in 3D: Walk My Old Campus Right in Your Browser" — three.js 3D campus from OpenStreetMap data, guided narrated tour, drone mode, walk-in interiors. | [Post](https://x.com/yashkavaiya/status/2116775543806836860) [Article](https://x.com/yashkavaiya/status/2116775365997711857) | [Live](https://svnit-virtual-tour.vercel.app) [GitHub](https://github.com/Yash-Kavaiya/svnit-virtual-tour) |
+| 2026-10-31 9:08 AM | Mermaid Edit & Export X Article deep dive: "Mermaid Edit & Export: Write a Diagram, Style It, Ship It as PNG, SVG or PDF" — browser Mermaid editor with Gemini text-to-diagram, 20 themes, PNG/SVG/PDF export. | [Post](https://x.com/yashkavaiya/status/2116374253310501195) [Article](https://x.com/yashkavaiya/status/2116374072095375868) | [Live](https://mermaid-edit-export.lovable.app) [GitHub](https://github.com/Yash-Kavaiya/mermaid-edit-export) |
 | 2026-10-30 5:17 PM | CricStudio X Article deep dive: "CricStudio: A StreamYard-Style Live Studio Built Only for Cricket" — StreamYard-style studio for cricket with live ESPN scores, 42 auto-switching scenes, 3D celebrations, multistream to YouTube, Facebook, X and Twitch. | [Post](https://x.com/yashkavaiya/status/2116134990706889161) [Article](https://x.com/yashkavaiya/status/2116134921987043825) | [Live](https://cricstudio.vercel.app) [GitHub](https://github.com/Yash-Kavaiya/cricstudio) |
 | 2026-10-30 1:56 AM | Kickstream demo video — football control room: compose scenes, go live to YouTube, X, Facebook and Twitch at once, seven agents read the match, commentary in 20 languages, best moments become vertical reels. | [Post](https://x.com/yashkavaiya/status/2115903144421204029) | [GitHub](https://github.com/Yash-Kavaiya/kickstream) |
 | 2026-10-28 9:02 AM | TeXAI Studio X Article deep dive: "TeXAI-Studio: A LaTeX Editor That Compiles Your PDF Right in the Browser" — in-browser pdfLaTeX + BibTeX via WebAssembly, live PDF preview, optional AI project templates. | [Post](https://x.com/yashkavaiya/status/2115285636320199038) [Article](https://x.com/yashkavaiya/status/2115285408971989493) | [Live](https://texai-studio.vercel.app) [GitHub](https://github.com/Yash-Kavaiya/TeXAI-Studio) |
