@@ -208,12 +208,13 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Last synced:** 2026-11-02 (IST).
+**Last synced:** 2026-11-03 (IST).
 
 `gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-11-03 1:01 PM | Awesome CX Agent Studio X Article deep dive: "Awesome CX Agent Studio: One Map for Learning Google's Agent Builder" — one awesome list plus a live guide site with courses, tools, videos and deploy channels for Google's CX Agent Studio. | [Post](https://x.com/yashkavaiya/status/2117520011736543541) [Article](https://x.com/yashkavaiya/status/2117519856169799703) | [Live](https://cxagentstudio.lovable.app/) [GitHub](https://github.com/Yash-Kavaiya/awesome-cx-agent-studio) |
 | 2026-11-02 9:07 AM | cxas-harness X Article deep dive: "cxas-harness: A Machine-First Rust CLI for Google's CX Agent Studio" — Rust rewrite of cxas-scrapi: JSON-by-default `cxas` binary, fixed exit codes, all 170 CES API methods addressable (37 typed), parity checks against vendored discovery docs. | [Post](https://x.com/yashkavaiya/status/2117098828834742365) [Article](https://x.com/yashkavaiya/status/2117098656197234930) | [Docs](https://yash-kavaiya.github.io/cxas-harness/) [GitHub](https://github.com/Yash-Kavaiya/cxas-harness) |
 | 2026-11-02 12:07 AM | Spoke at DevFest Jalandhar 2026 (GDG Jalandhar, CT Group of Institutions) on 'A voice agent, scaffolded in one command': building a voice Google ADK agent with Agents CLI and Antigravity. | [Post](https://x.com/yashkavaiya/status/2116962809531744676) | [GitHub](https://github.com/Yash-Kavaiya/voice-agent-adk-devfest) |
 | 2026-11-01 11:43 AM | SVNIT Virtual Tour X Article deep dive: "SVNIT Surat in 3D: Walk My Old Campus Right in Your Browser" — three.js 3D campus from OpenStreetMap data, guided narrated tour, drone mode, walk-in interiors. | [Post](https://x.com/yashkavaiya/status/2116775543806836860) [Article](https://x.com/yashkavaiya/status/2116775365997711857) | [Live](https://svnit-virtual-tour.vercel.app) [GitHub](https://github.com/Yash-Kavaiya/svnit-virtual-tour) |
