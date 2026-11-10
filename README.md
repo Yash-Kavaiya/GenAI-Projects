@@ -85,6 +85,7 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 | **🔗 Telegram URL Scraper** | Tool for extracting and managing URLs from Telegram channels and chats | <kbd>Web Scraping</kbd> <kbd>Telegram API</kbd> <kbd>Data Extraction</kbd> | - | [💻 Repository](https://github.com/Yash-Kavaiya/telegram-url-scraper) |
 | **📱 StyleSnap** | Fashion and style recommendation app with AI-powered suggestions | <kbd>Fashion Tech</kbd> <kbd>AI Recommendations</kbd> <kbd>Python</kbd> | [▶️ Watch Demo](https://www.youtube.com/shorts/LGll3aSwN0o) | [💻 Repository](https://github.com/Yash-Kavaiya/StyleSnap) |
 | **🏫 SVNIT Virtual Tour** | Browser 3D walkthrough of the SVNIT Surat campus from OpenStreetMap data, with a guided narrated tour, drone mode, and walk-in interiors. | <kbd>three.js</kbd> <kbd>JavaScript</kbd> <kbd>OpenStreetMap</kbd> | [🔗 Live Demo](https://svnit-virtual-tour.vercel.app) | [💻 Repository](https://github.com/Yash-Kavaiya/svnit-virtual-tour) |
+| **🗺️ ExplorePune** | Curated, map-based directory of forts, temples, gardens, museums, and hilltops across Pune. | <kbd>Next.js</kbd> | [🔗 Live Demo](https://explorepune.vercel.app/places) | - |
 
 ## 📚 Notes & Learning Resources
 
@@ -215,6 +216,9 @@ Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention 
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-11-10 1:56 PM | Agentic AI course, Chapter 1.5: meet the case studies — ShopAssist support agent and ResearchMate research agent; closes Module 1, next is The LLM Engine Room. | [Post](https://x.com/yashkavaiya/status/2120070637800579509) | — |
+| 2026-11-10 1:16 PM | Shared ExplorePune, a Pune places directory and map, in a reply for DevFest visitors. | [Post](https://x.com/yashkavaiya/status/2120060628060840434) | [Live](https://explorepune.vercel.app/places) |
+| 2026-11-10 12:27 PM | Agentic AI course, Chapter 1.4: anatomy of an agent — six blocks: Model, Instructions, Tools, Memory, Runtime, Guardrails; v0 spec for ShopAssist. | [Post](https://x.com/yashkavaiya/status/2120048262719709355) | — |
 | 2026-11-10 9:29 AM | Agentic AI course, Chapter 1.3: the agent loop — Observe, Think, Act, Check. | [Post](https://x.com/yashkavaiya/status/2120003337232007520) | — |
 | 2026-11-10 9:29 AM | CSV Quiz Reels X Article deep dive: "CSV Quiz Reels: Agent Skills That Turn a Practice-Test CSV Into Narrated Videos" — agent skills turn a CSV of exam questions into narrated Manim videos, as 9:16 Shorts/Reels or long 16:9. | [Post](https://x.com/yashkavaiya/status/2120003299038355920) [Article](https://x.com/yashkavaiya/article/2120002001153217016) | [Skills](https://www.skills.sh/yash-kavaiya/csv-quiz-reels-skills) [GitHub](https://github.com/Yash-Kavaiya/csv-quiz-reels-skills) |
 | 2026-11-09 11:35 PM | Agentic AI course, Chapter 1.2: the autonomy ladder. | [Post](https://x.com/yashkavaiya/status/2119853777771499928) | — |
