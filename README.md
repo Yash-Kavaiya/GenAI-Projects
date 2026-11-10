@@ -208,12 +208,22 @@ Here's a comprehensive list of my generative AI projects, complete with technolo
 
 Recent public posts from [@yashkavaiya](https://x.com/yashkavaiya) that mention GenAI projects. This section is meant to be refreshed by the catalog sync routine.
 
-**Last synced:** 2026-11-03 (IST).
+**Last synced:** 2026-11-10 (IST).
 
 `gemini-servicedesk` was not a public repository under [Yash-Kavaiya](https://github.com/Yash-Kavaiya) on this refresh, so it is not in the tables.
 
 | Date (IST) | Summary | Post | Project |
 |:----------:|---------|:----:|:-------:|
+| 2026-11-10 9:29 AM | Agentic AI course, Chapter 1.3: the agent loop — Observe, Think, Act, Check. | [Post](https://x.com/yashkavaiya/status/2120003337232007520) | — |
+| 2026-11-10 9:29 AM | CSV Quiz Reels X Article deep dive: "CSV Quiz Reels: Agent Skills That Turn a Practice-Test CSV Into Narrated Videos" — agent skills turn a CSV of exam questions into narrated Manim videos, as 9:16 Shorts/Reels or long 16:9. | [Post](https://x.com/yashkavaiya/status/2120003299038355920) [Article](https://x.com/yashkavaiya/article/2120002001153217016) | [Skills](https://www.skills.sh/yash-kavaiya/csv-quiz-reels-skills) [GitHub](https://github.com/Yash-Kavaiya/csv-quiz-reels-skills) |
+| 2026-11-09 11:35 PM | Agentic AI course, Chapter 1.2: the autonomy ladder. | [Post](https://x.com/yashkavaiya/status/2119853777771499928) | — |
+| 2026-11-09 10:57 PM | Kindle Ebook Generator bot: a topic and audience become a complete Amazon KDP book package, stopping before publishing. | [Post](https://x.com/yashkavaiya/status/2119844279489269964) | — |
+| 2026-11-09 10:55 PM | Excelidraw Reels bot. | [Post](https://x.com/yashkavaiya/status/2119843820452155658) | — |
+| 2026-11-09 9:08 PM | Agentic AI course, Chapter 1.1: What Is an AI Agent? | [Post](https://x.com/yashkavaiya/status/2119816787776716898) | — |
+| 2026-11-09 8:05 AM | Thread on multi-agent meshes (ADK + MCP + A2A) versus monolithic agents. | [Post](https://x.com/yashkavaiya/status/2119619961593430507) | — |
+| 2026-11-05 9:15 AM | Agents Buddy X Article deep dive: "Agents Buddy: One Toolkit for the Boring Parts of Building Dialogflow Agents" — building a Dialogflow agent means writing the same training phrases, webhook boilerplate and playbook prompts every time; Agents Buddy puts generators for all of it in one browser app. | [Post](https://x.com/i/status/2118188933557235776) [Article](https://x.com/yashkavaiya/status/2118187971983655088) | [Live](https://agent-buddy.lovable.app/) [GitHub](https://github.com/Yash-Kavaiya/agent-buddy) |
+| 2026-11-04 10:44 PM | Thanked the GDG Baroda team after speaking on 'Building Real-Time Voice Agents with Google ADK'. | [Post](https://x.com/i/status/2118029070554542588) | [GitHub](https://github.com/Yash-Kavaiya/voice-agent-adk-devfest) |
+| 2026-11-04 9:17 AM | AskQlive X Article deep dive: "AskQlive: Live Q&A for Multi-Speaker Events, With No Sign-Up for the Audience" — audience joins with a code, hosts moderate a ranked live feed, speakers get a teleprompter for the next question; built with Angular + Gemini on Cloud Run. | [Post](https://x.com/yashkavaiya/status/2117826056241676494) [Article](https://x.com/yashkavaiya/status/2117825897965490236) | [Live](https://askqlive.com/) [GitHub](https://github.com/Yash-Kavaiya/ask-q-live) |
 | 2026-11-03 1:01 PM | Awesome CX Agent Studio X Article deep dive: "Awesome CX Agent Studio: One Map for Learning Google's Agent Builder" — one awesome list plus a live guide site with courses, tools, videos and deploy channels for Google's CX Agent Studio. | [Post](https://x.com/yashkavaiya/status/2117520011736543541) [Article](https://x.com/yashkavaiya/status/2117519856169799703) | [Live](https://cxagentstudio.lovable.app/) [GitHub](https://github.com/Yash-Kavaiya/awesome-cx-agent-studio) |
 | 2026-11-02 9:07 AM | cxas-harness X Article deep dive: "cxas-harness: A Machine-First Rust CLI for Google's CX Agent Studio" — Rust rewrite of cxas-scrapi: JSON-by-default `cxas` binary, fixed exit codes, all 170 CES API methods addressable (37 typed), parity checks against vendored discovery docs. | [Post](https://x.com/yashkavaiya/status/2117098828834742365) [Article](https://x.com/yashkavaiya/status/2117098656197234930) | [Docs](https://yash-kavaiya.github.io/cxas-harness/) [GitHub](https://github.com/Yash-Kavaiya/cxas-harness) |
 | 2026-11-02 12:07 AM | Spoke at DevFest Jalandhar 2026 (GDG Jalandhar, CT Group of Institutions) on 'A voice agent, scaffolded in one command': building a voice Google ADK agent with Agents CLI and Antigravity. | [Post](https://x.com/yashkavaiya/status/2116962809531744676) | [GitHub](https://github.com/Yash-Kavaiya/voice-agent-adk-devfest) |
